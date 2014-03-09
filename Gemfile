@@ -103,6 +103,9 @@ gem 'mobile-fu',               '1.2.2'
 gem 'will_paginate',           '3.0.5'
 gem 'rails-timeago'
 
+# Jabber Messaging
+gem 'xmpp4r'
+
 # Workarounds
 # https://github.com/rubyzip/rubyzip#important-note
 gem 'zip-zip'
